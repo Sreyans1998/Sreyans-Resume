@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Sreyans-Resume/static/css/main.e7e93704.chunk.css",
+    "main.js": "/Sreyans-Resume/static/js/main.494c31bd.chunk.js",
+    "main.js.map": "/Sreyans-Resume/static/js/main.494c31bd.chunk.js.map",
+    "runtime-main.js": "/Sreyans-Resume/static/js/runtime-main.1f072d35.js",
+    "runtime-main.js.map": "/Sreyans-Resume/static/js/runtime-main.1f072d35.js.map",
+    "static/css/2.f2512455.chunk.css": "/Sreyans-Resume/static/css/2.f2512455.chunk.css",
+    "static/js/2.64907a15.chunk.js": "/Sreyans-Resume/static/js/2.64907a15.chunk.js",
+    "static/js/2.64907a15.chunk.js.map": "/Sreyans-Resume/static/js/2.64907a15.chunk.js.map",
+    "index.html": "/Sreyans-Resume/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/Sreyans-Resume/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.e7e93704.chunk.css.map": "/Sreyans-Resume/static/css/main.e7e93704.chunk.css.map",
+    "static/js/2.64907a15.chunk.js.LICENSE.txt": "/Sreyans-Resume/static/js/2.64907a15.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Sreyans-Resume/static/media/Back.9f858192.jpg",
+    "static/media/CMS.fdd70d5b.png": "/Sreyans-Resume/static/media/CMS.fdd70d5b.png",
+    "static/media/DOCBOT.cabfc1a5.png": "/Sreyans-Resume/static/media/DOCBOT.cabfc1a5.png",
+    "static/media/MEDIX.b54bf640.png": "/Sreyans-Resume/static/media/MEDIX.b54bf640.png",
+    "static/media/My pic.3eeb834c.jpg": "/Sreyans-Resume/static/media/My pic.3eeb834c.jpg",
+    "static/media/PLATFORM.563d4128.png": "/Sreyans-Resume/static/media/PLATFORM.563d4128.png",
+    "static/media/github.e0a346d1.png": "/Sreyans-Resume/static/media/github.e0a346d1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f072d35.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.64907a15.chunk.js",
+    "static/css/main.e7e93704.chunk.css",
+    "static/js/main.494c31bd.chunk.js"
+  ]
+}
